@@ -5,9 +5,10 @@ body{
 h1,h2{
 	text-align: center;
 	font-family: helvetica;
-	font-size: 70px;
+	font-size: 200px;
 	color: white;
 }
+
 p{
 	font-family: Arial;
 	font-size: 100px;
@@ -18,9 +19,10 @@ p{
 }
 
 ol,ul{
+	text-align: center;
 	font-family: 30px;
 	font-size: 100px;
-	padding-left: 500px;
+	margin-left: 100px;
 	color: white;
 }
 header{
@@ -33,23 +35,21 @@ header{
 header h1{
 	color: white;
 	font-family: 'Arial';
+	font-size: 100px;
 }
 header img{
   	width: 60%;
   	height: 50%;
-  	width: 60%;
-  	height: 50%;
+  	padding-bottom: 300px;
 }
 
 main{
-	max-width: 600px
-	text-align:center;
-
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 20px;
 }
 
 main img{
-	width: 70%;
+  	width: 80%;
   	height: 50%;
-  	margin-left:1000px;
-  	margin-right:1000px;
 }
