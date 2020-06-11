@@ -1,6 +1,7 @@
 body{
 	margin: 0;
 	background-color: black;
+	padding: 20px, 20px;
 }
 h1,h2{
 	text-align: center;
@@ -52,4 +53,13 @@ main{
 main img{
   	width: 80%;
   	height: 50%;
+}
+
+a{
+	color:#14BEEE ;
+}
+a:hover{
+	color: white;
+	background-color: #2214EE
+
 }
